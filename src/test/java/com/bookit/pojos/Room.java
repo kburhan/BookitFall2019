@@ -1,4 +1,4 @@
-package com.bookit.pojo;
+package com.bookit.pojos;
 import java.util.Objects;
 
 /**
